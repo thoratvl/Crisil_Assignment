@@ -1,0 +1,21 @@
+Entity Level Results : 
+                 precision    recall  f1-score   support
+
+          ACTOR       0.86      0.91      0.88       812
+      CHARACTER       0.31      0.11      0.16        90
+       DIRECTOR       0.87      0.83      0.85       456
+          GENRE       0.87      0.93      0.90      1117
+           PLOT       0.56      0.60      0.58       491
+         RATING       0.90      0.92      0.91       500
+RATINGS_AVERAGE       0.75      0.82      0.78       451
+         REVIEW       0.00      0.00      0.00        56
+           SONG       0.45      0.35      0.40        54
+          TITLE       0.57      0.75      0.65       562
+        TRAILER       0.82      0.47      0.60        30
+           YEAR       0.91      0.94      0.93       720
+
+      micro avg       0.79      0.83      0.81      5339
+      macro avg       0.65      0.64      0.64      5339
+   weighted avg       0.78      0.83      0.80      5339
+
+Accuracy: 0.9134732236895406
